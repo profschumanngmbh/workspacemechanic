@@ -13,7 +13,6 @@ import java.util.Properties;
 
 import junit.framework.TestCase;
 
-import org.eclipse.core.runtime.Path;
 import org.eclipse.core.variables.IValueVariable;
 
 import com.google.eclipse.mechanic.tests.internal.RunAsPluginTest;
